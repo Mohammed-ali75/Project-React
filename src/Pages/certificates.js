@@ -22,7 +22,7 @@ const certificates = () => {
           project in react dev.
         </p>
         <div className="divDivCertificates">
-          <NavLink style={style1} to="/Project_React">
+          <NavLink style={style1} to="/ProjectReact">
             1st Section
           </NavLink>
           <NavLink className="colCertificates" style={style1} to="2nd-Section">

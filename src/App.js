@@ -17,7 +17,7 @@ function App() {
         <Skills />
         <Certificates />
         <Routes>
-          <Route path="/Project_React" element={<Projects />}>
+          <Route path="/ProjectReact" element={<Projects />}>
             <Route path="/" element={<Projects />} />
             <Route path="/2nd-Section" element={<></>} />
             <Route
