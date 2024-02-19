@@ -667,4 +667,39 @@ input:focus::placeholder {
   .col2Introduction {
     height: 225px;
   }
+  .btnMyData h4,
+  .squareHeader h4,
+  a h4 {
+    font-size: 20px !important;
+  }
+  .btnMyData h4,
+  a h4 {
+    top: -6px;
+  }
+  .circleHeader,
+  .btnMyData {
+    height: 33px !important;
+    width: 33px !important;
+  }
+  .modal-header {
+    float: right;
+    margin-right: 4px;
+  }
+  .modal-title {
+    font-size: 15.5px;
+  }
+  ul {
+    padding-top: 60px;
+    padding-left: 125px !important;
+  }
+  ul li {
+    font-size: 13px;
+  }
+  .logoImgMyData {
+    margin-top: -56px;
+    width: 101px;
+  }
+  .modal-header .btn-close {
+    z-index: 10;
+  }
 }
