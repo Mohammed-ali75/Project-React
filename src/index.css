@@ -648,7 +648,7 @@ input:focus::placeholder {
     margin-left: 22px;
   }
   .endAll2 p {
-    font-size: 10px;
+    font-size: 8px;
   }
   .divCertificates {
     padding-left: 0;
@@ -658,7 +658,7 @@ input:focus::placeholder {
     width: 343px;
   }
   .divCertificates .divDivCertificates a {
-    font-size: 12px !important;
+    font-size: 11px !important;
   }
   .divProjects .container .row .col-lg-3 div a {
     font-size: 24px;
