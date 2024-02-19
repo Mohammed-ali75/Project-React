@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Project-React/static/css/main.9e71debf.css",
+    "main.js": "/Project-React/static/js/main.fb3d4cfe.js",
+    "static/js/787.0edbcda9.chunk.js": "/Project-React/static/js/787.0edbcda9.chunk.js",
+    "static/media/Cross-platform software-pana.png": "/Project-React/static/media/Cross-platform software-pana.889a36d7ae91c0eba13f.png",
+    "static/media/Project1.jpg": "/Project-React/static/media/Project1.4760dcb9d49c9c6e374d.jpg",
+    "static/media/imgME.jpg": "/Project-React/static/media/imgME.0b3c14148ea1bc4bbcef.jpg",
+    "static/media/Programmer-cuate.png": "/Project-React/static/media/Programmer-cuate.88fd415215f974695373.png",
+    "static/media/Project5.jpg": "/Project-React/static/media/Project5.b7e5e98a3c7b73d37dfb.jpg",
+    "static/media/Project2.jpg": "/Project-React/static/media/Project2.61c1620f891339b42fd6.jpg",
+    "static/media/Project3.jpg": "/Project-React/static/media/Project3.5e5cc24471a4e2a833dd.jpg",
+    "static/media/Project4.jpg": "/Project-React/static/media/Project4.26ea8a578a14bee6d0ae.jpg",
+    "static/media/Project6.jpg": "/Project-React/static/media/Project6.2b9542b99875905b56d5.jpg",
+    "static/media/back.png": "/Project-React/static/media/back.fd2a4eb0d10ad6b7ab68.png",
+    "static/media/back2.png": "/Project-React/static/media/back2.a8adeb1a3829a4b839e2.png",
+    "index.html": "/Project-React/index.html",
+    "main.9e71debf.css.map": "/Project-React/static/css/main.9e71debf.css.map",
+    "main.fb3d4cfe.js.map": "/Project-React/static/js/main.fb3d4cfe.js.map",
+    "787.0edbcda9.chunk.js.map": "/Project-React/static/js/787.0edbcda9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9e71debf.css",
+    "static/js/main.fb3d4cfe.js"
+  ]
+}
