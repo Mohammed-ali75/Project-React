@@ -17,19 +17,17 @@ function App() {
         <Skills />
         <Certificates />
         <Routes>
-          <Route path="/Project-React" element={<Projects />}>
-            <Route path="/" element={<Projects />} />
-            <Route path="/2nd-Section" element={<></>} />
-            <Route
-              path="/3rd-Section"
-              element={
-                <p className="pApp">
-                  my name is Mohammed, I live in the pyramid gardens, this is my
-                  1st project in react dev.
-                </p>
-              }
-            />
-          </Route>
+          <Route path="/Project-React" element={<Projects />} />
+          <Route path="/2nd-Section" element={<></>} />
+          <Route
+            path="/3rd-Section"
+            element={
+              <p className="pApp">
+                my name is Mohammed, I live in the pyramid gardens, this is my
+                1st project in react dev.
+              </p>
+            }
+          />
         </Routes>
         <Data />
         <End />
