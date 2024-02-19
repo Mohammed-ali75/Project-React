@@ -652,12 +652,13 @@ input:focus::placeholder {
   }
   .divCertificates {
     padding-left: 0;
+    padding-right: 0;
   }
   .divCertificates .divDivCertificates {
-    width: 362px;
+    width: 343px;
   }
   .divCertificates .divDivCertificates a {
-    font-size: 11px !important;
+    font-size: 12px !important;
   }
   .divProjects .container .row .col-lg-3 div a {
     font-size: 24px;
@@ -665,10 +666,5 @@ input:focus::placeholder {
   .col1Data,
   .col2Introduction {
     height: 225px;
-  }
-}
-@media screen and (max-width: 767px) {
-  .divProjects .container .row .col-lg-3 {
-    width: 45%;
   }
 }
