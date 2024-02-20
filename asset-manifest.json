@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Project-React/static/css/main.ff3417bf.css",
+    "main.css": "/Project-React/static/css/main.0f595321.css",
     "main.js": "/Project-React/static/js/main.692123ee.js",
     "static/js/787.0edbcda9.chunk.js": "/Project-React/static/js/787.0edbcda9.chunk.js",
     "static/media/Cross-platform software-pana.png": "/Project-React/static/media/Cross-platform software-pana.889a36d7ae91c0eba13f.png",
@@ -15,12 +15,12 @@
     "static/media/back.png": "/Project-React/static/media/back.fd2a4eb0d10ad6b7ab68.png",
     "static/media/back2.png": "/Project-React/static/media/back2.a8adeb1a3829a4b839e2.png",
     "index.html": "/Project-React/index.html",
-    "main.ff3417bf.css.map": "/Project-React/static/css/main.ff3417bf.css.map",
+    "main.0f595321.css.map": "/Project-React/static/css/main.0f595321.css.map",
     "main.692123ee.js.map": "/Project-React/static/js/main.692123ee.js.map",
     "787.0edbcda9.chunk.js.map": "/Project-React/static/js/787.0edbcda9.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.ff3417bf.css",
+    "static/css/main.0f595321.css",
     "static/js/main.692123ee.js"
   ]
 }
