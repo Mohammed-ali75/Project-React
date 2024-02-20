@@ -704,4 +704,7 @@ input:focus::placeholder {
   .modal-header .btn-close {
     z-index: 10;
   }
+  .endAll2 .row .col-lg-6 div .row .col .circleEnd {
+    padding-left: 6px !important;
+  }
 }
