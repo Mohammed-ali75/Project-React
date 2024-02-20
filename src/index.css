@@ -670,11 +670,12 @@ input:focus::placeholder {
   .btnMyData h4,
   .squareHeader h4,
   a h4 {
+    top: 0px;
     font-size: 20px !important;
   }
   .btnMyData h4,
   a h4 {
-    top: -6px;
+    top: -5px;
   }
   .circleHeader,
   .btnMyData {
@@ -683,17 +684,18 @@ input:focus::placeholder {
   }
   .modal-header {
     float: right;
-    margin-right: 4px;
+    margin-right: 8px;
   }
   .modal-title {
-    font-size: 15.5px;
+    font-size: 14.5px !important;
   }
   ul {
-    padding-top: 60px;
-    padding-left: 125px !important;
+    float: right;
+    padding-right: 13px;
+    margin-top: -17px !important;
   }
   ul li {
-    font-size: 13px;
+    font-size: 12px;
   }
   .logoImgMyData {
     margin-top: -56px;
