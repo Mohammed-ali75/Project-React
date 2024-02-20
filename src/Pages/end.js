@@ -51,14 +51,14 @@ function end() {
                     </Nav.Link>
                   </Col>
                   <Col className="colEnd">
-                    <Link href="" className="circleHeader circleEnd">
+                    <Link href="" className="circleHeader circleEnd circleEndF">
                       <h4>
                         <FontAwesomeIcon icon={faFacebookF} />
                       </h4>
                     </Link>
                   </Col>
                   <Col className="colEnd">
-                    <Link href="" className="circleHeader circleEnd">
+                    <Link href="" className="circleHeader circleEnd circleEndI">
                       <h4>
                         <FontAwesomeIcon icon={faInstagram} />
                       </h4>

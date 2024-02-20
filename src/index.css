@@ -707,4 +707,8 @@ input:focus::placeholder {
   .endAll2 .row .col-lg-6 div .row .col .circleEnd {
     padding-left: 6px !important;
   }
+  .circleEndF,
+  .circleEndI {
+    padding-left: 8px !important;
+  }
 }
